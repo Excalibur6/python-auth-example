@@ -19,8 +19,8 @@ cd python-auth-example/
 2. Create and activate a virtual environment:
 
 ```
-virtualenv env
-source env/bin/activate
+python -m venv env
+.\env\Scripts\activate
 ```
 
 3. Install requirements:
